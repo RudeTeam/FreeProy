@@ -1,4 +1,4 @@
-<img src="http://imgur.com/a/dESOf"/>
+<img src="http://i.imgur.com/2z47X9V.jpg"/>
 
 <h2>Donating</h2>
 If you really like this project, feel free to buy <b>pizza</b> :pizza: or :beers: for devs (or a present :rose: :gift: for my gf, she is a bit mad that i'm spending most part of my free time for this project :coffee:):<br/><br/>
